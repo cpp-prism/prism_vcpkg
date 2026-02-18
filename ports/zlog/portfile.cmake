@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL "https://github.com/nocanstillbb/zlog.git"
-    REF 65f0ab8d4891b472450d5e73f1c50815ed4264e5
+    REF c63666e237f4d4acdad873f46ef873ac892c39ca
     FETCH_REF master
 )
 
